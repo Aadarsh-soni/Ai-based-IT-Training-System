@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854941556242",
+    "project_id": "tlink-524b7",
+    "storage_bucket": "tlink-524b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854941556242:android:4c90a3fc95fff5272482cb",
+        "android_client_info": {
+          "package_name": "com.example.t_l"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWgtOe4SeTzjvnV9F_akJiAQmX6SO5IE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
